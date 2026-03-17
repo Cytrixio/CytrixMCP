@@ -1,4 +1,4 @@
-The CytrixMCP (Management and Control Plane) is essential for enabling intelligent, 
+The CytrixMCP (Model Context Protocol) is essential for enabling intelligent, 
 autonomous control of the Cytrix platform through natural language. It allows users to 
 integrate powerful AI models like ChatGPT, Claude, or Cursor directly with Cytrix, 
 enabling them to launch scans, interpret results, and execute complex attack sequences 
@@ -7,6 +7,8 @@ Cytrix API, the MCP transforms traditional security testing into an automated, a
 This not only reduces manual effort and accelerates testing but also empowers users—technical 
 and non-technical alike—to leverage cutting-edge AI to interact with and operate the platform 
 as if they were speaking to a skilled human tester
+
+MCP for the CYTRIX Agentic Red Team platform and is focused on automated penetration testing and platform management, it should stay centered on those capabilities. A better one-paragraph version is: CytrixMCP is the Model Context Protocol server for the CYTRIX Agentic Red Team platform, designed to let AI agents and external systems securely manage and operate CYTRIX through standardized tools and machine-readable responses, including retrieving dashboard and system data, monitoring discovery and scan coverage, launching and duplicating automated penetration tests, configuring scan settings such as authentication profiles, API schemas, headers, cookies, proxies, scheduling, and rate limits, and enabling seamless automation of both security testing and day-to-day platform management across web applications, APIs, and external attack surfaces.
 
 -------------------------------------------------------
 STEP 1: UV Installation -
